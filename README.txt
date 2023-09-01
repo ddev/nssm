@@ -1,3 +1,7 @@
+# FORK USED ONLY FOR BUILDING DDEV's windows installer
+
+This is really just used as a place to download nssm.
+
 NSSM: The Non-Sucking Service Manager
 Version 2.24, 2014-08-31
 
